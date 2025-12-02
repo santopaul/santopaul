@@ -38,7 +38,7 @@
 
 <!--*📖 [View all posts →](https://dev.to/santopaul)*-->
 
-## 🚀 Featured Projects
+## Featured Projects 🚀
 
 <div align="center">
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;'The+best+way+to+predict+the+future+is+to+invent+it.'+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;The+future+is+what+we+invent+today+💫" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=♥+--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--;♥++Neural++Network++Processing++Medical++Data++♥;♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--" alt="Medical ECG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=♥+❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___;♥++Neural++Network++Processing++Medical++Data++♥;♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--" alt="Medical ECG Animation" />
 </p>
 
 <p align="center">
@@ -52,12 +52,19 @@
 - 🌟 **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
 
 </div>
+---
+
+## 💝 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/santopaul" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-
-### AI & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -67,8 +74,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
-
-### Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -77,8 +82,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
-
-### Research & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -105,16 +108,6 @@
 
 </div>
 -->
-
----
-
-## 💝 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/santopaul" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
 
 ---
 <!--

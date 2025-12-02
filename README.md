@@ -38,7 +38,7 @@
 <!-- BLOG:END -->
 
 <!--*📖 [View all posts →](https://dev.to/santopaul)*-->
-
+<!--
 ## Featured Projects 🚀
 
 <div align="center">
@@ -57,7 +57,7 @@
 - **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)
 - **Research Focus**: AI applications in healthcare and medical imaging
 - **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
-
+-->
 ---
 
 <p align="center">

@@ -61,30 +61,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santopaul&show_icons=true&theme=radical&hide_border=true" alt="Santo Paul's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santopaul&theme=radical&hide_border=true" alt="Santo Paul's GitHub Streak" />
-</p>
+### 📈 Overall Stats
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santopaul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santopaul&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santopaul&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 🔥 Streak Stats  
+<img src="https://streak-stats.demolab.com/?user=santopaul&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+### 📊 Detailed Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santopaul&theme=radical" alt="Profile Summary" />
+
+</div>
 
 ---
 
-## 🗺️ Visitor Map
+## 🗺️ Visitor Analytics
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=santopaul&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Visitor Map" />
+  <img src="https://komarev.com/ghpvc/?username=santopaul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/santopaul/count.svg" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsantopaul%2Fsantopaul&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false" alt="Visitor Counter" />
 </p>
 
 ---
@@ -99,14 +101,26 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Interactive Animations
 
+### 🐍 Contribution Snake (eating your commits!)
 <p align="center">
   <img src="https://github.com/santopaul/santopaul/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+### 📊 3D Contribution Calendar
 <p align="center">
-  <img src="https://github.com/santopaul/santopaul/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santopaul&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santopaul&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/santopaul" alt="GitHub Chart" />
 </p>
 
 ---

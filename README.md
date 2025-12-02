@@ -3,8 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=300&color=00FF41&center=true&width=800&lines=%3E+Initializing+Neural+Networks...;%3E+Loading+AI+Models...+%5B████████████%5D+100%25;%3E+Connecting+to+Database...;%3E+Processing+Data...+%5B██████░░░░░░%5D+52%25;%3E+Training+Deep+Learning+Models...;%3E+Status%3A+READY+%7C+Systems+Online+🔥;%3E+Santo.exe+--mode+DataScientist+--target+Earth" alt="Hacker Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=300&color=00FF41&center=true&width=800&lines=%3E+Initializing+Neural+Networks...;%3E+Loading+AI+Models...+%5B████████████%5D+100%25;%3E+Connecting+to+Database...;%3E+Processing+Data...+%5B██████░░░░░░%5D+52%25;%3E+Training+Deep+Learning+Models...;%3E+Status%3A+READY+%7C+Systems+Online;%3E+Santo.exe+--mode+DataScientist+--target+Earth" alt="Hacker Terminal Animation" />
 </p>
+
+<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" title="Matrix Code Rain"/>
+</p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santopaul&label=Profile%20views&color=0e75b6&style=flat" alt="santopaul" />

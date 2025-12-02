@@ -2,12 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;The+future+is+what+we+invent+today+💫" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=ECG%20%7C%20Medical%20AI&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="800"/>
-</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=♥+❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___;♥++Neural++Network++Processing++Medical++Data++♥;♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--" alt="Medical ECG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___;All++Systems++Online;❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___" alt="Medical ECG Animation" />
 </p>
 
 <p align="center">
@@ -52,15 +49,6 @@
 - 🌟 **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
 
 </div>
----
-
-## 💝 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/santopaul" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
 
 ---
 
@@ -116,6 +104,17 @@
 
 ---
 -->
+---
+<!--## 💝 Support My Work-->
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/santopaul" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
 </p>

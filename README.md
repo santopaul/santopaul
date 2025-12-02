@@ -26,6 +26,35 @@
 - ⚡ Fun fact: **Combining medicine with machine learning to save lives!**
 -->
 ---
+## 📝 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- This will be automatically updated by GitHub Actions -->
+<!-- BLOG:END -->
+
+*📖 [View all posts →](https://dev.to/santopaul)*
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|------------|----------------|----------------|-----------|
+| **🏥 DicoMaster** | Secure, High-performance DICOM anonymization and metadata extraction for research and healthcare | Python, DICOM, Healthcare AI | [📄 Article](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1) • [💻 Code](https://github.com/santopaul/dicomaster) |
+| **🧠 Neural Networks** | Advanced neural network implementations for medical data analysis | PyTorch, TensorFlow, Medical AI | [🔗 View Projects](https://github.com/santopaul?tab=repositories) |
+| **🤖 Health Tech AI** | AI applications bridging healthcare and technology | Python, ML, Healthcare | [🔗 Explore](https://github.com/santopaul?tab=repositories) |
+| **📊 Data Science** | Research projects in medical data science and analytics | Python, R, Statistics | [🔗 Repository](https://github.com/santopaul?tab=repositories) |
+
+### 🎉 Recent Highlights
+- 📝 **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)
+- 🔬 **Research Focus**: AI applications in healthcare and medical imaging
+- 🌟 **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +88,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
----
 <!--
 ## 📊 GitHub Analytics
 
@@ -77,15 +105,6 @@
 
 </div>
 -->
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG:START -->
-<!-- This will be automatically updated by GitHub Actions -->
-<!-- BLOG:END -->
-
-*📖 [View all posts →](https://dev.to/santopaul)*
 
 ---
 

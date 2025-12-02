@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI & Data Science
+### AI & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### 💻 Web Development
+### Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🔬 Research & Tools
+### Research & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -60,7 +60,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -76,19 +76,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santopaul&theme=radical" alt="Profile Summary" />
 
 </div>
-
----
-
-## 🗺️ Visitor Analytics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santopaul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsantopaul%2Fsantopaul&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false" alt="Visitor Counter" />
-</p>
-
+-->
 ---
 
 ## 📝 Latest Blog Posts
@@ -101,30 +89,6 @@
 
 ---
 
-## 🎮 Interactive Animations
-
-### 🐍 Contribution Snake (eating your commits!)
-<p align="center">
-  <img src="https://github.com/santopaul/santopaul/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-### 📊 3D Contribution Calendar
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santopaul&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santopaul&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 📈 Contribution Heatmap
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/santopaul" alt="GitHub Chart" />
-</p>
-
----
-
 ## 💝 Support My Work
 
 <p align="center">
@@ -134,12 +98,12 @@
 </p>
 
 ---
-
+<!--
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=santopaul/santopaul@github)](https://gitads.dev/v1/ad-track?source=santopaul/santopaul@github)
 
 ---
-
+-->
 <p align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
 </p>

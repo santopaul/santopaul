@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 > *"The best way to predict the future is to invent it."* 💫
-
+<!--
 - 🧠 **Data Scientist** specializing in neural networks and AI
 - 🩺 **Medical Student** bridging healthcare and technology
 - 🤖 **Robotics & AI Explorer** passionate about automation
@@ -24,7 +24,7 @@
 - 🌱 Always learning about **emerging technologies**
 - 💡 Looking to collaborate on **AI, health tech, and robotics projects**
 - ⚡ Fun fact: **Combining medicine with machine learning to save lives!**
-
+-->
 ---
 
 ## 🛠️ Tech Stack
@@ -77,14 +77,6 @@
 
 ---
 
-## ⏰ Coding Time Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=santopaul&theme=radical&hide_border=true" alt="WakaTime Stats" />
-</p>
-
----
-
 ## 🗺️ Visitor Map
 
 <p align="center">
@@ -94,37 +86,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/santopaul/count.svg" alt="Visitor Count" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/santopaul?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santopaul&repo=santopaul&theme=radical&hide_border=true" alt="Profile Repo" />
-  </a>
-</p>
-
-<!-- You can add more project cards here -->
-<!-- <p align="center">
-  <a href="https://github.com/santopaul/your-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santopaul&repo=your-awesome-project&theme=radical&hide_border=true" alt="Your Project" />
-  </a>
-</p> -->
-
-### 🔥 Project Highlights
-
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| 🌟 **Awesome Project 1** | Brief description of your amazing project | React, Node.js, MongoDB | [Demo](https://your-demo.com) • [Code](https://github.com/santopaul/project1) |
-| 🚀 **Cool Project 2** | Another fantastic project you've built | Python, Flask, PostgreSQL | [Demo](https://your-demo2.com) • [Code](https://github.com/santopaul/project2) |
-| 💎 **Open Source Contrib** | Your contributions to open source | Various | [View All](https://github.com/santopaul?tab=repositories) |
-
-</div>
 
 ---
 

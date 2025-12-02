@@ -11,8 +11,8 @@
 </p>
 
 ---
-
-## 🚀 About Me
+<!--
+## About Me
 
 > *"The best way to predict the future is to invent it."* 💫
 <!--
@@ -32,8 +32,8 @@
 <!-- This will be automatically updated by GitHub Actions -->
 <!-- BLOG:END -->
 
-*📖 [View all posts →](https://dev.to/santopaul)*
--->
+<!--*📖 [View all posts →](https://dev.to/santopaul)*-->
+
 ---
 
 ## 🚀 Featured Projects
@@ -42,7 +42,7 @@
 
 | Project | Description | Tech Stack | Links |
 |------------|----------------|----------------|-----------|
-| **DicoMaster** | Secure, High-performance DICOM anonymization and metadata extraction for research and healthcare | Python, DICOM, Healthcare AI | [Article](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1) • [Code](https://github.com/santopaul/dicomaster) |
+| **Dicomaster** | Secure, High-performance DICOM anonymization and metadata extraction for research and healthcare | Python, DICOM, Healthcare AI | [Article](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1) • [Code](https://github.com/santopaul/dicomaster) |
 
 ### 🎉 Recent Highlights
 - 📝 **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)

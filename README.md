@@ -2,9 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;The+future+is+what+we+invent+today+💫" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=300&color=00FF41&center=true&width=800&lines=%3E+Initializing+Neural+Networks...;%3E+Loading+AI+Models...+%5B████████████%5D+100%25;%3E+Connecting+to+Healthcare+Database...;%3E+Processing+Medical+Data...+%5B██████░░░░░░%5D+52%25;%3E+Training+Deep+Learning+Models...;%3E+Status%3A+READY+%7C+Systems+Online+🔥;%3E+Santo.exe+--mode+DataScientist+--target+HealthTech" alt="Hacker Terminal Animation" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___;All++Systems++Online;❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___❤️`___/\___/\___" alt="Medical ECG Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" title="Matrix Code Rain"/>
 </p>
 
 <p align="center">

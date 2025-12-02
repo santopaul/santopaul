@@ -47,7 +47,9 @@
 
 </div>
 <div align="center">
+
 ### 🎉 Recent Highlights
+
 </div>
 
 - 📝 **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)

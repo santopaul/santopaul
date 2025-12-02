@@ -52,10 +52,75 @@
 
 ---
 
+## ⏰ Coding Time Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=santopaul&theme=radical&hide_border=true" alt="WakaTime Stats" />
+</p>
+
+---
+
+## 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=santopaul&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Visitor Map" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/santopaul/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/santopaul?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santopaul&repo=santopaul&theme=radical&hide_border=true" alt="Profile Repo" />
+  </a>
+</p>
+
+<!-- You can add more project cards here -->
+<!-- <p align="center">
+  <a href="https://github.com/santopaul/your-awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santopaul&repo=your-awesome-project&theme=radical&hide_border=true" alt="Your Project" />
+  </a>
+</p> -->
+
+### 🔥 Project Highlights
+
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| 🌟 **Awesome Project 1** | Brief description of your amazing project | React, Node.js, MongoDB | [Demo](https://your-demo.com) • [Code](https://github.com/santopaul/project1) |
+| 🚀 **Cool Project 2** | Another fantastic project you've built | Python, Flask, PostgreSQL | [Demo](https://your-demo2.com) • [Code](https://github.com/santopaul/project2) |
+| 💎 **Open Source Contrib** | Your contributions to open source | Various | [View All](https://github.com/santopaul?tab=repositories) |
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- This will be automatically updated by GitHub Actions -->
+<!-- BLOG:END -->
+
+*📖 [View all posts →](https://dev.to/santopaul)*
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/santopaul/santopaul/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/santopaul/santopaul/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" />
 </p>
 
 ---

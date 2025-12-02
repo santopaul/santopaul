@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=santopaul&label=Profile%20views&color=0e75b6&style=flat" alt="santopaul" />
 </p>
 
----
 <!--
 ## About Me
 
@@ -47,9 +46,9 @@
 | **Dicomaster** | Secure, High-performance DICOM anonymization and metadata extraction for research and healthcare | Python, DICOM, Healthcare AI | [Article](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1) • [Code](https://github.com/santopaul/dicomaster) |
 
 ### 🎉 Recent Highlights
-- 📝 **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)
-- 🔬 **Research Focus**: AI applications in healthcare and medical imaging
-- 🌟 **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
+ 📝 **Latest Article**: [DicoMaster: Secure DICOM Processing](https://medium.com/@santopaul/dicomaster-secure-high-performance-dicom-anonymization-and-metadata-extraction-for-research-and-9e9f76b5b5c1)
+ 🔬 **Research Focus**: AI applications in healthcare and medical imaging
+ 🌟 **Innovation**: Bridging medicine and machine learning for better healthcare outcomes
 
 </div>
 
@@ -116,7 +115,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Let's connect and build something amazing together! 🚀</i>

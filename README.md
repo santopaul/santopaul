@@ -1,11 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;The+future+is+what+we+invent+today+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Hi+there!+I'm+Santo+Paul+👋;Data+Scientist+%26+Neural+Network+Developer;Medical+Student+exploring+AI+%26+Health+Tech;'The+best+way+to+predict+the+future+is+to+invent+it.'+💫" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=ECG%20%7C%20Medical%20AI&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="800"/>
+</div>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" title="Brain Scan"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" title="Neural Network"/>
-  <img src="https://media.giphy.com/media/l41lRx0CtD3SW4OvS/giphy.gif" width="100" title="Heartbeat Monitor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=800&lines=♥+--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--;♥++Neural++Network++Processing++Medical++Data++♥;♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--♥--" alt="Medical ECG Animation" />
 </p>
 
 <p align="center">

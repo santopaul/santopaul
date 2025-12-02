@@ -100,14 +100,14 @@
 </div>
 -->
 
----
+
 <!--
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=santopaul/santopaul@github)](https://gitads.dev/v1/ad-track?source=santopaul/santopaul@github)
 
 ---
 -->
----
+
 <!--## 💝 Support My Work-->
 
 <p align="center">
